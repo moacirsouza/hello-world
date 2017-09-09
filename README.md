@@ -1,6 +1,6 @@
 # hello-world
 
-## Creating a GitHub repository for the first time
+### Creating a GitHub repository for the first time
 
 Hi there,
 
