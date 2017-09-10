@@ -6,7 +6,8 @@ Hi there,
 
 Just an old school programmer and sysadmin trying to catch up with the new techologies.
 
-I wonder if someone will EVER read this :).
+I wonder if someone will EVER read this :). But if no one does, it doesn't matter ;)
 
 Cheers,
+
 Moka
