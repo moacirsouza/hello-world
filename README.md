@@ -29,7 +29,7 @@ if(true){
 ## Header 2
 ### Header 3
 
-A [link](google.com)
+A [link](http://www.google.com)
 
 A numbered list:
 1. First
