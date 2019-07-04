@@ -57,8 +57,9 @@ An unordered bullet list, with a sub-list, using the asterisk (star) syntax:
 Writing this was fun, but there's a lot more to learn about MarkDown. Here are some nice references I've found in my researches:
 
 * Definitions and history in [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
-* Adam Pritchard's MarkDown [CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* "Everything you need to learn" about [MarkDown](https://www.markdownguide.org/)
+* Adam Pritchard's Markdown [CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* "Everything you need to learn" about [Markdown](https://www.markdownguide.org/)
 
 Have Fun!
+
 Moka
