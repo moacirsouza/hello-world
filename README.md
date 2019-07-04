@@ -4,7 +4,7 @@
 
 Hi there,
 
-Just an old school programmer and sysadmin trying to catch up with the new techologies.
+I'm just an old school programmer and sysadmin trying to catch up with the new techologies.
 
 I wonder if someone will EVER read this... But it doesn't really matter ;)
 
@@ -38,10 +38,10 @@ A numbered list:
 
 An ordered numbered list, with a sub-list:
 1. First
-1. Second
+2. Second
    1. First of the Second
-   1. Second of the Second
-1. Third
+   2. Second of the Second
+3. Third
 
 An unordered bullet list, with a sub-list, using the asterisk (star) syntax:
 
@@ -52,7 +52,13 @@ An unordered bullet list, with a sub-list, using the asterisk (star) syntax:
    * C-2
 * D
 
+### References
 
-Cheers,
+Writing this was fun, but there's a lot more to learn about MarkDown. Here are some nice references I've found in my researches:
 
+* Definitions and history in [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+* Adam Pritchard's MarkDown [CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* "Everything you need to learn" about [MarkDown](https://www.markdownguide.org/)
+
+Have Fun!
 Moka
